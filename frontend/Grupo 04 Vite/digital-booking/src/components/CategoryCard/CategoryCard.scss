@@ -1,0 +1,24 @@
+.db-card-category {
+  width: 100%;
+
+  &:hover {
+    cursor: pointer;
+    background-color: var(--color-primary);
+  }
+
+  &-image {
+    aspect-ratio: 3/2;
+    border-radius: var(--border-radius-big) var(--border-radius-big) 0 0;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  &-content {
+    padding: 0.6rem;
+
+    h3 {
+      font-size: 1.2rem;
+      margin-bottom: 0.2rem;
+    }
+  }
+}

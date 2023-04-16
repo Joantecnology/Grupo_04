@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/1.huy-nguyen-G-4ZEoftr-0-unsplash.jpg",
+    "category": "Hoteles",
+    "amount": 807.105,
+    "type": "hoteles"
+  },
+  {
+    "id": 2,
+    "image": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/2.isaac-quesada-xc4oxgAbDmw-unsplash.jpg",
+    "category": "Hostel",
+    "amount": 807.105,
+    "type": "hostel"
+  },
+  {
+    "id": 3,
+    "image": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/3.oswald-elsaboath-ym_EI-DTS1g-unsplash.jpg",
+    "category": "Departamentos",
+    "amount": 807.105,
+    "type": "departamanetos"
+  },
+  {
+    "id": 4,
+    "image": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/4.paweldotio-ZyP4Apa8tvI-unsplash.jpg",
+    "category": "Bed and Breakfast",
+    "amount": 807.105,
+    "type": "bed and breakfast"
+  }
+]

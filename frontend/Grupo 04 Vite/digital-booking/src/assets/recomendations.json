@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "crimg": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/5.voo-qqq-qr8Ci2tzyR8-unsplash.jpg",
+    "category": "HOTEL",
+    "title": "Hermitage Hotel",
+    "location": "A 940 m del centro MOSTRAR EN EL MAPA",
+    "description": "En el corazon de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. más..."
+  },
+  {
+    "id": 2,
+    "crimg": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/6.valeriia-bugaiova-_pPHgeHz1uk-unsplash.jpg",
+    "category": "HOTEL",
+    "title": "Hermitage Hotel",
+    "location": "A 940 m del centro MOSTRAR EN EL MAPA",
+    "description": "En el corazon de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. más..."
+  },
+  {
+    "id": 3,
+    "crimg": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/7.jpg",
+    "category": "HOTEL",
+    "title": "Hermitage Hotel",
+    "location": "A 940 m del centro MOSTRAR EN EL MAPA",
+    "description": "En el corazon de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. más..."
+  },
+  {
+    "id": 4,
+    "crimg": "/frontend/Grupo 04 Vite/digital-booking/src/assets/img/8.fernando-alvarez-rodriguez-M7GddPqJowg-unsplash.jpg",
+    "category": "HOTEL",
+    "title": "Hermitage Hotel",
+    "location": "A 940 m del centro MOSTRAR EN EL MAPA",
+    "description": "En el corazon de San Telmo, disfruta de un albergue inspirado en las pasiones de Buenos Aires. más..."
+  }
+]

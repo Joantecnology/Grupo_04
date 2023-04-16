@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "src":"/img/image8.jpg",
+            "alt":"image 8",
+            "title":"Hoteles",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image2.jpg",
+            "alt":"image 2",
+            "title":"Departamentos",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image3.jpg",
+            "alt":"image 3",
+            "title":"Bed and breakfast",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image4.jpg",
+            "alt":"image 4",
+            "title":"Departamentos",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image5.jpg",
+            "alt":"image 5",
+            "title":"Bed and breakfast",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image6.jpg",
+            "alt":"image 6",
+            "title":"Hoteles",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image7.jpg",
+            "alt":"image 7",
+            "title":"Departamentos",
+            "description":"807.105 hoteles"
+        },
+        {
+            "src":"/img/image1.jpg",
+            "alt":"image 1",
+            "title":"Bed and breakfast",
+            "description":"807.105 hoteles"
+        }        
+    ]
+}

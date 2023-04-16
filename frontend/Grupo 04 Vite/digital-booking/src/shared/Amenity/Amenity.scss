@@ -1,0 +1,9 @@
+.db-svg-container {
+  display: flex;
+  align-items: center;
+
+  .label {
+    margin-left: 0.5rem;
+    text-transform: capitalize;
+  }
+}
